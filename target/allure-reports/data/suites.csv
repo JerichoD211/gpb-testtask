@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Dec 11 12:34:05 GMT+04:00 2020","Fri Dec 11 12:34:34 GMT+04:00 2020","28391","","tests.SeleniumTests","","tests.SeleniumTests","tabletSearch","tabletSearch()",""
-"passed","Fri Dec 11 12:33:35 GMT+04:00 2020","Fri Dec 11 12:34:05 GMT+04:00 2020","30734","","tests.SeleniumTests","","tests.SeleniumTests","notebookSearch","notebookSearch()",""
-"passed","Fri Dec 11 12:33:35 GMT+04:00 2020","Fri Dec 11 12:33:35 GMT+04:00 2020","47","","tests.DuplicatesTests","","tests.DuplicatesTests","duplicatesTest","duplicatesTest()",""
