@@ -1,0 +1,113 @@
+{
+  "uid" : "616bf5937c0f8e8",
+  "name" : "notebookSearch()",
+  "fullName" : "tests.SeleniumTests.notebookSearch",
+  "historyId" : "a96cedfe296b39c49d95d34003040e7b",
+  "time" : {
+    "start" : 1607675615218,
+    "stop" : 1607675645952,
+    "duration" : 30734
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1607675615233,
+      "stop" : 1607675623284,
+      "duration" : 8051
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Тест для Ноутбуков",
+      "time" : {
+        "start" : 1607675623285,
+        "stop" : 1607675644965,
+        "duration" : 21680
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1607675644966,
+      "stop" : 1607675645952,
+      "duration" : 986
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "ws64-009"
+  }, {
+    "name" : "thread",
+    "value" : "17412@ws64-009.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.SeleniumTests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.SeleniumTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "notebookSearch"
+  }, {
+    "name" : "suite",
+    "value" : "tests.SeleniumTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "616bf5937c0f8e8.json",
+  "parameterValues" : [ ]
+}
